@@ -1,0 +1,3 @@
+declare module 'heroes-mfe/heroes.routes';
+declare module 'heroes-mfe/heroes.service';
+declare module 'heroes-mfe/heroes.interceptor';
